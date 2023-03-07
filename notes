@@ -1,0 +1,14 @@
+//perfect pitch this is an app that helps develop the perfect pitch
+    //it takes a form with different 3 diffrent inputs really 4 the first it
+    // ask what takes a date and  are you pitching for
+        // the first main category is what got you started as what ever position you are choosing
+        // the second asks have you learned so far
+        // the third tells what you can do fo the company
+
+    //the features
+        //all the data gets saved in a database that we ill make get request to to get the
+        //data and put it on screen using the DOM
+        //
+        //I want a sort button on there where we can sort the info by date
+        //
+        // we can delete an entry by hitting a button.
